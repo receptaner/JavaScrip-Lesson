@@ -1,0 +1,1 @@
+console.log("Merhaba Ben Konsol Komutu");
